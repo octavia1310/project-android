@@ -30,17 +30,20 @@ Pengguna mendapatkan pengingat otomatis sebelum deadline.
 Edit profil (nama).
 Upload foto profil.
 Informasi tersimpan di database.
+
 Teknologi yang Digunakan
-Java — Bahasa utama untuk logika aplikasi Android.
-XML — Untuk desain tampilan (UI).
-Android Studio — IDE pengembangan aplikasi.
-MySQL + PHP API — Backend untuk penyimpanan data (users, tasks, riwayat, reset password).
-Volley — Komunikasi antara aplikasi dan API server.
-Notification Manager — Mengelola notifikasi pengingat.
+1. Java — Bahasa utama untuk logika aplikasi Android.
+2. XML — Untuk desain tampilan (UI).
+3. Android Studio — IDE pengembangan aplikasi.
+4. MySQL + PHP API — Backend untuk penyimpanan data (users, tasks, riwayat, reset password).
+5. Volley — Komunikasi antara aplikasi dan API server.
+6. Notification Manager — Mengelola notifikasi pengingat.
+
 Cara Menjalankan Aplikasi
-Clone repository dari GitHub.
-Buka project menggunakan Android Studio.
-Pastikan backend (API PHP + MySQL) sudah dijalankan.
-Atur file konfigurasi URL API sesuai server.
-Build & Run aplikasi pada emulator atau perangkat Android.
-Aplikasi siap digunakan untuk mengelola aktivitas harian!
+1. Clone repository dari GitHub.
+2. Buka project menggunakan Android Studio.
+3. Pastikan backend (API PHP + MySQL) sudah dijalankan.
+4. Atur file konfigurasi URL API sesuai server.
+5. Build & Run aplikasi pada emulator atau perangkat Android.
+6. Aplikasi siap digunakan untuk mengelola aktivitas harian!
+
